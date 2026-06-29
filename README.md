@@ -14,14 +14,17 @@
 
 <br/>
 
-### 🧩 What I'm Building
+### 🎮 Where I've Worked
 
-| Project | Description |
-|---|---|
-| 🎮 **MultyPlay** | A Minecraft network built from the ground up — gameplay systems, staff structure, dev pipeline |
-| ✨ **Bloxen** | A "vanilla+ done properly" Minecraft network concept, focused on clean, premium design |
-| 💰 **Dream Fund** | A personal finance & savings-goal tracker for Moldova-based users (React + TypeScript) |
-| 🏷️ **MaceTags** | A premium multi-line nametag plugin using PacketEvents, Paper & Folia |
+| Server | Avg. Players | Role |
+|---|---|---|
+| **MinecraftOG.ro** | ~150 | Manager / Developer — *where it all started* |
+| **MultyPlay.ro** | ~50 | Co-Owner, Developer |
+| **MoonLand** | ~50 | Staff Manager / Media Manager |
+| **Gods-Realm** | ~50 | Founder, Media Manager, Developer |
+| **BlazedLand** | ~50 | Founder, Full Stack Developer |
+| **ROMKA STUDIOS / Mace Studios** | — | Plugin Developer — BuiltByBit |
+| **Independent** | — | Freelance Minecraft Developer |
 
 <br/>
 
