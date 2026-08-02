@@ -12,6 +12,10 @@ I'm Romka, a developer from Moldova focused on Minecraft plugins, backend system
 
 I build, break, and improve things around the Bloxen ecosystem.
 
+**Currently working on**
+
+`Minecraft infrastructure` &middot; `Backend systems` &middot; `Bloxen`
+
 ![Profile views](https://komarev.com/ghpvc/?username=notromka&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)
 
 ## Core Stack
