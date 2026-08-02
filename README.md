@@ -36,8 +36,10 @@ Paper | Spigot | Folia | Velocity | MariaDB | Redis
 
 <hr>
 
+## Contributions in the Past Year
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notromka&theme=react-dark&custom_title=Romka%27s+Activity&hide_border=true" alt="Romka's GitHub activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notromka&theme=react-dark&custom_title=Contributions+in+the+past+year&from=2025-08-02&to=2026-08-02&area=true&area_color=1d4ed8&line=60a5fa&point=bfdbfe&hide_border=true&height=320" alt="GitHub contributions in the past year" />
 </p>
 
 ## GitHub Stats
@@ -46,20 +48,6 @@ Paper | Spigot | Folia | Velocity | MariaDB | Redis
   <img src="https://github-readme-stats.vercel.app/api?username=notromka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=notromka&theme=tokyonight&hide_border=true" width="49%" alt="GitHub streak"/>
 </div>
-
-## What I Like Building
-
-- Minecraft network infrastructure and proxy integrations
-- Secure, event-driven backend services
-- Developer tools that remove repetitive work
-- Systems that stay understandable as they grow
-- Game modes, plugins, and experiments around multiplayer
-
-## Selected Work
-
-- [BloxenCore-Velocity](https://github.com/Bloxen/BloxenCore-Velocity) - shared Velocity platform services
-- [BloxenCore-Paper](https://github.com/Bloxen/BloxenCore-Paper) - Paper-side server integrations
-- [BloxenDiscordBot](https://github.com/Bloxen/BloxenDiscordBot) - Discord tooling for the network
 
 ## Connect With Me
 
