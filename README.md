@@ -22,6 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-@romkayo-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord @romkayo" /></a>
-  <a href="https://romka.cc"><img src="https://img.shields.io/badge/Website-romka.cc-1e2327?style=for-the-badge&logo=googlechrome&logoColor=white" alt="romka.cc" /></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/%40romkayo-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord @romkayo" /></a>
+  &nbsp;
+  <a href="https://romka.cc"><img src="https://img.shields.io/badge/romka.cc-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="romka.cc" /></a>
 </p>
