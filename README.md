@@ -7,11 +7,18 @@
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="52" height="52" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="52" height="52" />
   <br />
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,discordjs&perline=7" alt="Web and backend stack" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="52" height="52" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="52" height="52" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="52" height="52" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="52" height="52" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="52" height="52" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="52" height="52" />
   <br />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&perline=5" alt="Database stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,nextjs,nodejs,express,discordjs&perline=6" alt="Web and backend stack" />
   <br />
-  <img src="https://skillicons.dev/icons?i=bash,powershell,git,github,gradle,maven,docker,nginx,linux,githubactions&perline=10" alt="Tools and infrastructure" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis&perline=4" alt="Database stack" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=bash,powershell,git,gradle,maven,linux,githubactions&perline=7" alt="Tools and infrastructure" />
 </p>
 
 <p align="center">
