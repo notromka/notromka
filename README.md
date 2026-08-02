@@ -12,9 +12,4 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&perline=5" alt="Database stack" />
   <br />
   <img src="https://skillicons.dev/icons?i=bash,powershell,git,github,gradle,maven,docker,nginx,linux,githubactions&perline=10" alt="Tools and infrastructure" />
-  <br />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/REST%20API-111827?style=for-the-badge" alt="REST API" />
-  <img src="https://img.shields.io/badge/WebSockets-0F766E?style=for-the-badge" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/SSH-1F2937?style=for-the-badge" alt="SSH" />
 </p>
