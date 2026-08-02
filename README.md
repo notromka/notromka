@@ -2,15 +2,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=42&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&height=60&lines=Romka+%7C+notromka;Minecraft+Network+Developer;Building+Bloxen)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=42&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&height=60&lines=Romka_06;FullStack+Developer;Minecraft+Plugin+Developer)](https://git.io/typing-svg)
 
 </div>
 
 ## About Me
 
-I am Romka, a software developer focused on Minecraft networks, backend systems, and tools that make multiplayer infrastructure easier to run.
+I'm Romka, a developer from Moldova focused on Minecraft plugins, backend systems, and practical tools.
 
-Most of my current work lives in the Bloxen ecosystem: Velocity and Paper plugins, minigames, Discord integrations, shared messaging, and reliable cross-server services.
+I build, break, and improve things around the Bloxen ecosystem.
 
 ![Profile views](https://komarev.com/ghpvc/?username=notromka&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)
 
