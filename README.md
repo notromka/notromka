@@ -1,25 +1,20 @@
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="52" height="52" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="52" height="52" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="52" height="52" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="52" height="52" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="52" height="52" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="52" height="52" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="52" height="52" />
-  <br />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="52" height="52" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="52" height="52" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="52" height="52" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="52" height="52" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="52" height="52" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="52" height="52" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=dotnet,rust,go,html,css,nextjs,nodejs,express,discordjs&perline=9" alt="Backend and web stack: .NET, Rust, Go, HTML, CSS, Next.js, Node.js, Express, and Discord.js" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis&perline=4" alt="Database stack" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=bash,powershell,git,gradle,maven,linux,githubactions&perline=7" alt="Tools and infrastructure" />
-</p>
+<div align="center">
+  <strong>Languages</strong>
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,ts,js,py,cpp,cs,rust,go&theme=dark&perline=9" alt="Java, Kotlin, TypeScript, JavaScript, Python, C++, C#, Rust, and Go" />
+  <br /><br />
+  <strong>Web &amp; Backend</strong>
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,dotnet,discordjs&theme=dark&perline=8" alt="HTML, CSS, React, Next.js, Node.js, Express, .NET, and Discord.js" />
+  <br /><br />
+  <strong>Data &amp; Infrastructure</strong>
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,docker,nginx,linux&theme=dark&perline=8" alt="MySQL, PostgreSQL, MongoDB, SQLite, Redis, Docker, Nginx, and Linux" />
+  <br /><br />
+  <strong>Workflow</strong>
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,bash,powershell,gradle,maven&theme=dark&perline=7" alt="Git, GitHub, GitHub Actions, Bash, PowerShell, Gradle, and Maven" />
+</div>
 
 <p align="center">
   <a href="https://discord.com"><img src="https://img.shields.io/badge/%40romkayo-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord @romkayo" /></a>
