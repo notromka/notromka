@@ -14,7 +14,7 @@
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="52" height="52" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="52" height="52" />
   <br />
-  <img src="https://skillicons.dev/icons?i=html,css,nextjs,nodejs,express,discordjs&perline=6" alt="Web and backend stack" />
+  <img src="https://skillicons.dev/icons?i=dotnet,rust,go,html,css,nextjs,nodejs,express,discordjs&perline=9" alt="Backend and web stack: .NET, Rust, Go, HTML, CSS, Next.js, Node.js, Express, and Discord.js" />
   <br />
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis&perline=4" alt="Database stack" />
   <br />
